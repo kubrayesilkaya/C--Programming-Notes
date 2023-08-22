@@ -1,0 +1,3 @@
+{
+    "dotnet.defaultSolution": "ref ve out Parametreleri.sln"
+}

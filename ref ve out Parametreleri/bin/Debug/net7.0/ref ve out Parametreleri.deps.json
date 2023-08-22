@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ref ve out Parametreleri/1.0.0": {
+        "runtime": {
+          "ref ve out Parametreleri.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ref ve out Parametreleri/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

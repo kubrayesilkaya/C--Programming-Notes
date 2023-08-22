@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ref ve out Parametreleri", "ref ve out Parametreleri.csproj", "{6C934595-9343-4FFD-B4CF-342776120DD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C934595-9343-4FFD-B4CF-342776120DD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C934595-9343-4FFD-B4CF-342776120DD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C934595-9343-4FFD-B4CF-342776120DD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C934595-9343-4FFD-B4CF-342776120DD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7923B933-77D3-4B28-B573-4FC84A8B6496}
+	EndGlobalSection
+EndGlobal

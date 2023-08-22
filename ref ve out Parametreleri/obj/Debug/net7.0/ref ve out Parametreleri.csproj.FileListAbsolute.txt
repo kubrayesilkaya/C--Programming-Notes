@@ -1,0 +1,15 @@
+C:\Users\kubra\Desktop\ref ve out Parametreleri\bin\Debug\net7.0\ref ve out Parametreleri.exe
+C:\Users\kubra\Desktop\ref ve out Parametreleri\bin\Debug\net7.0\ref ve out Parametreleri.deps.json
+C:\Users\kubra\Desktop\ref ve out Parametreleri\bin\Debug\net7.0\ref ve out Parametreleri.runtimeconfig.json
+C:\Users\kubra\Desktop\ref ve out Parametreleri\bin\Debug\net7.0\ref ve out Parametreleri.dll
+C:\Users\kubra\Desktop\ref ve out Parametreleri\bin\Debug\net7.0\ref ve out Parametreleri.pdb
+C:\Users\kubra\Desktop\ref ve out Parametreleri\obj\Debug\net7.0\ref ve out Parametreleri.csproj.AssemblyReference.cache
+C:\Users\kubra\Desktop\ref ve out Parametreleri\obj\Debug\net7.0\ref ve out Parametreleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubra\Desktop\ref ve out Parametreleri\obj\Debug\net7.0\ref ve out Parametreleri.AssemblyInfoInputs.cache
+C:\Users\kubra\Desktop\ref ve out Parametreleri\obj\Debug\net7.0\ref ve out Parametreleri.AssemblyInfo.cs
+C:\Users\kubra\Desktop\ref ve out Parametreleri\obj\Debug\net7.0\ref ve out Parametreleri.csproj.CoreCompileInputs.cache
+C:\Users\kubra\Desktop\ref ve out Parametreleri\obj\Debug\net7.0\ref ve out Parametreleri.dll
+C:\Users\kubra\Desktop\ref ve out Parametreleri\obj\Debug\net7.0\refint\ref ve out Parametreleri.dll
+C:\Users\kubra\Desktop\ref ve out Parametreleri\obj\Debug\net7.0\ref ve out Parametreleri.pdb
+C:\Users\kubra\Desktop\ref ve out Parametreleri\obj\Debug\net7.0\ref ve out Parametreleri.genruntimeconfig.cache
+C:\Users\kubra\Desktop\ref ve out Parametreleri\obj\Debug\net7.0\ref\ref ve out Parametreleri.dll
