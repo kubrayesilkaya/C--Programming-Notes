@@ -8,7 +8,7 @@ namespace Metotlar1
         {
             // Metotlar
 
-            // Metotlar sınıf içerisinde yer alırlar ve metodun dışında tanımlanırlar. Metot iççinde metot tanımlaması olmaz.
+            // Metotlar sınıf içerisinde yer alırlar ve metodun dışında tanımlanırlar. Metot içinde metot tanımlaması olmaz.
 
             var result = Topla(5,4);
 
