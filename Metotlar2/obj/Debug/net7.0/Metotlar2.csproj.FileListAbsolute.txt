@@ -1,0 +1,15 @@
+C:\Users\kubra\Desktop\Metotlar2\bin\Debug\net7.0\Metotlar2.exe
+C:\Users\kubra\Desktop\Metotlar2\bin\Debug\net7.0\Metotlar2.deps.json
+C:\Users\kubra\Desktop\Metotlar2\bin\Debug\net7.0\Metotlar2.runtimeconfig.json
+C:\Users\kubra\Desktop\Metotlar2\bin\Debug\net7.0\Metotlar2.dll
+C:\Users\kubra\Desktop\Metotlar2\bin\Debug\net7.0\Metotlar2.pdb
+C:\Users\kubra\Desktop\Metotlar2\obj\Debug\net7.0\Metotlar2.csproj.AssemblyReference.cache
+C:\Users\kubra\Desktop\Metotlar2\obj\Debug\net7.0\Metotlar2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubra\Desktop\Metotlar2\obj\Debug\net7.0\Metotlar2.AssemblyInfoInputs.cache
+C:\Users\kubra\Desktop\Metotlar2\obj\Debug\net7.0\Metotlar2.AssemblyInfo.cs
+C:\Users\kubra\Desktop\Metotlar2\obj\Debug\net7.0\Metotlar2.csproj.CoreCompileInputs.cache
+C:\Users\kubra\Desktop\Metotlar2\obj\Debug\net7.0\Metotlar2.dll
+C:\Users\kubra\Desktop\Metotlar2\obj\Debug\net7.0\refint\Metotlar2.dll
+C:\Users\kubra\Desktop\Metotlar2\obj\Debug\net7.0\Metotlar2.pdb
+C:\Users\kubra\Desktop\Metotlar2\obj\Debug\net7.0\Metotlar2.genruntimeconfig.cache
+C:\Users\kubra\Desktop\Metotlar2\obj\Debug\net7.0\ref\Metotlar2.dll
