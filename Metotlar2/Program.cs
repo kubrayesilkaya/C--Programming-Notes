@@ -79,12 +79,17 @@ namespace Metotlar2
 
         //  Opsiyonel parametreler; parametrelerin en sağında yer almadılır. (birden fazla olabilir, sağda olmalılar.)
 
-        static void KullaniciEkle(string ad, string soyad, bool aktifMi = true, bool cinsiyet = true) // kullanıcı sisteme girdiğinde varsayılan olarak true. 
-        {
-            Yaz("Ad : " + "\nSoyad : " + soyad + "\nAktif : " + aktifMi);
-        }
+        // static void KullaniciEkle(string ad, string soyad, bool aktifMi = true, bool cinsiyet = true) // kullanıcı sisteme girdiğinde varsayılan olarak true. 
+        // {
+        //     Yaz("Ad : " + "\nSoyad : " + soyad + "\nAktif : " + aktifMi);
+        // }
 
         // isimlendirilmiş Parametreler (Named Parameters)
+
+        static void KullaniciEkle(string ad, string soyad, bool aktifMi = true, bool cinsiyet = true)
+        {
+            Yaz("Ad : " + ad + "\nSoyad : " + soyad + "\nAktif : " + aktifMi);
+        }
 
 
     }
