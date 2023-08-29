@@ -1,0 +1,8 @@
+C:\Users\kubra\Desktop\İleri Seviye Sınıf Kullanımı 1\İleri Seviye Sınıf Kullanımı 1\bin\Debug\İleri Seviye Sınıf Kullanımı 1.exe.config
+C:\Users\kubra\Desktop\İleri Seviye Sınıf Kullanımı 1\İleri Seviye Sınıf Kullanımı 1\bin\Debug\İleri Seviye Sınıf Kullanımı 1.exe
+C:\Users\kubra\Desktop\İleri Seviye Sınıf Kullanımı 1\İleri Seviye Sınıf Kullanımı 1\bin\Debug\İleri Seviye Sınıf Kullanımı 1.pdb
+C:\Users\kubra\Desktop\İleri Seviye Sınıf Kullanımı 1\İleri Seviye Sınıf Kullanımı 1\obj\Debug\İleri Seviye Sınıf Kullanımı 1.csproj.AssemblyReference.cache
+C:\Users\kubra\Desktop\İleri Seviye Sınıf Kullanımı 1\İleri Seviye Sınıf Kullanımı 1\obj\Debug\İleri Seviye Sınıf Kullanımı 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\kubra\Desktop\İleri Seviye Sınıf Kullanımı 1\İleri Seviye Sınıf Kullanımı 1\obj\Debug\İleri Seviye Sınıf Kullanımı 1.csproj.CoreCompileInputs.cache
+C:\Users\kubra\Desktop\İleri Seviye Sınıf Kullanımı 1\İleri Seviye Sınıf Kullanımı 1\obj\Debug\İleri Seviye Sınıf Kullanımı 1.exe
+C:\Users\kubra\Desktop\İleri Seviye Sınıf Kullanımı 1\İleri Seviye Sınıf Kullanımı 1\obj\Debug\İleri Seviye Sınıf Kullanımı 1.pdb
