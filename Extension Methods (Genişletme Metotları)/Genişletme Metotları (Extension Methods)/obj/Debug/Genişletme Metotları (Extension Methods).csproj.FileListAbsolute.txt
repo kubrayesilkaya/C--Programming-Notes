@@ -1,0 +1,7 @@
+C:\Users\kubra\Desktop\Genişletme Metotları (Extension Methods)\Genişletme Metotları (Extension Methods)\bin\Debug\Genişletme Metotları (Extension Methods).exe.config
+C:\Users\kubra\Desktop\Genişletme Metotları (Extension Methods)\Genişletme Metotları (Extension Methods)\bin\Debug\Genişletme Metotları (Extension Methods).exe
+C:\Users\kubra\Desktop\Genişletme Metotları (Extension Methods)\Genişletme Metotları (Extension Methods)\bin\Debug\Genişletme Metotları (Extension Methods).pdb
+C:\Users\kubra\Desktop\Genişletme Metotları (Extension Methods)\Genişletme Metotları (Extension Methods)\obj\Debug\Genişletme Metotları (Extension Methods).csproj.AssemblyReference.cache
+C:\Users\kubra\Desktop\Genişletme Metotları (Extension Methods)\Genişletme Metotları (Extension Methods)\obj\Debug\Genişletme Metotları (Extension Methods).csproj.CoreCompileInputs.cache
+C:\Users\kubra\Desktop\Genişletme Metotları (Extension Methods)\Genişletme Metotları (Extension Methods)\obj\Debug\Genişletme Metotları (Extension Methods).exe
+C:\Users\kubra\Desktop\Genişletme Metotları (Extension Methods)\Genişletme Metotları (Extension Methods)\obj\Debug\Genişletme Metotları (Extension Methods).pdb
