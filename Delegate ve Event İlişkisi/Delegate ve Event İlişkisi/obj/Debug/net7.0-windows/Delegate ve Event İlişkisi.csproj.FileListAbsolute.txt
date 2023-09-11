@@ -1,0 +1,16 @@
+C:\Users\kubra\Desktop\Delegate ve Event İlişkisi\Delegate ve Event İlişkisi\bin\Debug\net7.0-windows\Delegate ve Event İlişkisi.exe
+C:\Users\kubra\Desktop\Delegate ve Event İlişkisi\Delegate ve Event İlişkisi\bin\Debug\net7.0-windows\Delegate ve Event İlişkisi.deps.json
+C:\Users\kubra\Desktop\Delegate ve Event İlişkisi\Delegate ve Event İlişkisi\bin\Debug\net7.0-windows\Delegate ve Event İlişkisi.runtimeconfig.json
+C:\Users\kubra\Desktop\Delegate ve Event İlişkisi\Delegate ve Event İlişkisi\bin\Debug\net7.0-windows\Delegate ve Event İlişkisi.dll
+C:\Users\kubra\Desktop\Delegate ve Event İlişkisi\Delegate ve Event İlişkisi\bin\Debug\net7.0-windows\Delegate ve Event İlişkisi.pdb
+C:\Users\kubra\Desktop\Delegate ve Event İlişkisi\Delegate ve Event İlişkisi\obj\Debug\net7.0-windows\Delegate_ve_Event_İlişkisi.Form1.resources
+C:\Users\kubra\Desktop\Delegate ve Event İlişkisi\Delegate ve Event İlişkisi\obj\Debug\net7.0-windows\Delegate ve Event İlişkisi.csproj.GenerateResource.cache
+C:\Users\kubra\Desktop\Delegate ve Event İlişkisi\Delegate ve Event İlişkisi\obj\Debug\net7.0-windows\Delegate ve Event İlişkisi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubra\Desktop\Delegate ve Event İlişkisi\Delegate ve Event İlişkisi\obj\Debug\net7.0-windows\Delegate ve Event İlişkisi.AssemblyInfoInputs.cache
+C:\Users\kubra\Desktop\Delegate ve Event İlişkisi\Delegate ve Event İlişkisi\obj\Debug\net7.0-windows\Delegate ve Event İlişkisi.AssemblyInfo.cs
+C:\Users\kubra\Desktop\Delegate ve Event İlişkisi\Delegate ve Event İlişkisi\obj\Debug\net7.0-windows\Delegate ve Event İlişkisi.csproj.CoreCompileInputs.cache
+C:\Users\kubra\Desktop\Delegate ve Event İlişkisi\Delegate ve Event İlişkisi\obj\Debug\net7.0-windows\Delegate ve Event İlişkisi.dll
+C:\Users\kubra\Desktop\Delegate ve Event İlişkisi\Delegate ve Event İlişkisi\obj\Debug\net7.0-windows\refint\Delegate ve Event İlişkisi.dll
+C:\Users\kubra\Desktop\Delegate ve Event İlişkisi\Delegate ve Event İlişkisi\obj\Debug\net7.0-windows\Delegate ve Event İlişkisi.pdb
+C:\Users\kubra\Desktop\Delegate ve Event İlişkisi\Delegate ve Event İlişkisi\obj\Debug\net7.0-windows\Delegate ve Event İlişkisi.genruntimeconfig.cache
+C:\Users\kubra\Desktop\Delegate ve Event İlişkisi\Delegate ve Event İlişkisi\obj\Debug\net7.0-windows\ref\Delegate ve Event İlişkisi.dll
