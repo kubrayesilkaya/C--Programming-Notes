@@ -1,0 +1,7 @@
+C:\Users\kubra\Desktop\Jenerik Temsilci (Generic Delegate)\Jenerik Temsilci (Generic Delegate)\obj\Debug\Jenerik Temsilci (Generic Delegate).csproj.AssemblyReference.cache
+C:\Users\kubra\Desktop\Jenerik Temsilci (Generic Delegate)\Jenerik Temsilci (Generic Delegate)\obj\Debug\Jenerik Temsilci (Generic Delegate).csproj.CoreCompileInputs.cache
+C:\Users\kubra\Desktop\Jenerik Temsilci (Generic Delegate)\Jenerik Temsilci (Generic Delegate)\bin\Debug\Jenerik Temsilci (Generic Delegate).exe.config
+C:\Users\kubra\Desktop\Jenerik Temsilci (Generic Delegate)\Jenerik Temsilci (Generic Delegate)\bin\Debug\Jenerik Temsilci (Generic Delegate).exe
+C:\Users\kubra\Desktop\Jenerik Temsilci (Generic Delegate)\Jenerik Temsilci (Generic Delegate)\bin\Debug\Jenerik Temsilci (Generic Delegate).pdb
+C:\Users\kubra\Desktop\Jenerik Temsilci (Generic Delegate)\Jenerik Temsilci (Generic Delegate)\obj\Debug\Jenerik Temsilci (Generic Delegate).exe
+C:\Users\kubra\Desktop\Jenerik Temsilci (Generic Delegate)\Jenerik Temsilci (Generic Delegate)\obj\Debug\Jenerik Temsilci (Generic Delegate).pdb
