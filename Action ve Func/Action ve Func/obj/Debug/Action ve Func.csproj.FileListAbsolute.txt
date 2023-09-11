@@ -1,0 +1,7 @@
+C:\Users\kubra\Desktop\Action ve Func\Action ve Func\bin\Debug\Action ve Func.exe.config
+C:\Users\kubra\Desktop\Action ve Func\Action ve Func\bin\Debug\Action ve Func.exe
+C:\Users\kubra\Desktop\Action ve Func\Action ve Func\bin\Debug\Action ve Func.pdb
+C:\Users\kubra\Desktop\Action ve Func\Action ve Func\obj\Debug\Action ve Func.csproj.AssemblyReference.cache
+C:\Users\kubra\Desktop\Action ve Func\Action ve Func\obj\Debug\Action ve Func.csproj.CoreCompileInputs.cache
+C:\Users\kubra\Desktop\Action ve Func\Action ve Func\obj\Debug\Action ve Func.exe
+C:\Users\kubra\Desktop\Action ve Func\Action ve Func\obj\Debug\Action ve Func.pdb
