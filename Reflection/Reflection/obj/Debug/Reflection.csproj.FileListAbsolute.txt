@@ -1,0 +1,7 @@
+C:\Users\kubra\Desktop\Reflection\Reflection\bin\Debug\Reflection.exe.config
+C:\Users\kubra\Desktop\Reflection\Reflection\bin\Debug\Reflection.exe
+C:\Users\kubra\Desktop\Reflection\Reflection\bin\Debug\Reflection.pdb
+C:\Users\kubra\Desktop\Reflection\Reflection\obj\Debug\Reflection.csproj.AssemblyReference.cache
+C:\Users\kubra\Desktop\Reflection\Reflection\obj\Debug\Reflection.csproj.CoreCompileInputs.cache
+C:\Users\kubra\Desktop\Reflection\Reflection\obj\Debug\Reflection.exe
+C:\Users\kubra\Desktop\Reflection\Reflection\obj\Debug\Reflection.pdb
