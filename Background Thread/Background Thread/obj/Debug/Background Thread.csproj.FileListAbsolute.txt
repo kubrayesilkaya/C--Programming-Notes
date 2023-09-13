@@ -1,0 +1,7 @@
+C:\Users\kubra\Desktop\Background Thread\Background Thread\bin\Debug\Background Thread.exe.config
+C:\Users\kubra\Desktop\Background Thread\Background Thread\bin\Debug\Background Thread.exe
+C:\Users\kubra\Desktop\Background Thread\Background Thread\bin\Debug\Background Thread.pdb
+C:\Users\kubra\Desktop\Background Thread\Background Thread\obj\Debug\Background Thread.csproj.AssemblyReference.cache
+C:\Users\kubra\Desktop\Background Thread\Background Thread\obj\Debug\Background Thread.csproj.CoreCompileInputs.cache
+C:\Users\kubra\Desktop\Background Thread\Background Thread\obj\Debug\Background Thread.exe
+C:\Users\kubra\Desktop\Background Thread\Background Thread\obj\Debug\Background Thread.pdb
