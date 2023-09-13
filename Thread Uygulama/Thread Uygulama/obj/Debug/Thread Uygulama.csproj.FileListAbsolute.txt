@@ -1,0 +1,7 @@
+C:\Users\kubra\Desktop\Thread Uygulama\Thread Uygulama\bin\Debug\Thread Uygulama.exe.config
+C:\Users\kubra\Desktop\Thread Uygulama\Thread Uygulama\bin\Debug\Thread Uygulama.exe
+C:\Users\kubra\Desktop\Thread Uygulama\Thread Uygulama\bin\Debug\Thread Uygulama.pdb
+C:\Users\kubra\Desktop\Thread Uygulama\Thread Uygulama\obj\Debug\Thread Uygulama.csproj.AssemblyReference.cache
+C:\Users\kubra\Desktop\Thread Uygulama\Thread Uygulama\obj\Debug\Thread Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\kubra\Desktop\Thread Uygulama\Thread Uygulama\obj\Debug\Thread Uygulama.exe
+C:\Users\kubra\Desktop\Thread Uygulama\Thread Uygulama\obj\Debug\Thread Uygulama.pdb
