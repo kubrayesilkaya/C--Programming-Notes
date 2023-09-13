@@ -1,0 +1,7 @@
+C:\Users\kubra\Desktop\Paralel.Invoke()\Paralel.Invoke()\bin\Debug\Paralel.Invoke().exe.config
+C:\Users\kubra\Desktop\Paralel.Invoke()\Paralel.Invoke()\bin\Debug\Paralel.Invoke().exe
+C:\Users\kubra\Desktop\Paralel.Invoke()\Paralel.Invoke()\bin\Debug\Paralel.Invoke().pdb
+C:\Users\kubra\Desktop\Paralel.Invoke()\Paralel.Invoke()\obj\Debug\Paralel.Invoke().csproj.AssemblyReference.cache
+C:\Users\kubra\Desktop\Paralel.Invoke()\Paralel.Invoke()\obj\Debug\Paralel.Invoke().csproj.CoreCompileInputs.cache
+C:\Users\kubra\Desktop\Paralel.Invoke()\Paralel.Invoke()\obj\Debug\Paralel.Invoke().exe
+C:\Users\kubra\Desktop\Paralel.Invoke()\Paralel.Invoke()\obj\Debug\Paralel.Invoke().pdb
