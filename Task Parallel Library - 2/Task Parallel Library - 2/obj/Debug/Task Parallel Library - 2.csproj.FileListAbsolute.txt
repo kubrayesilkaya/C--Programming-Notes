@@ -1,0 +1,7 @@
+C:\Users\kubra\Desktop\Task Parallel Library - 2\Task Parallel Library - 2\bin\Debug\Task Parallel Library - 2.exe.config
+C:\Users\kubra\Desktop\Task Parallel Library - 2\Task Parallel Library - 2\bin\Debug\Task Parallel Library - 2.exe
+C:\Users\kubra\Desktop\Task Parallel Library - 2\Task Parallel Library - 2\bin\Debug\Task Parallel Library - 2.pdb
+C:\Users\kubra\Desktop\Task Parallel Library - 2\Task Parallel Library - 2\obj\Debug\Task Parallel Library - 2.csproj.AssemblyReference.cache
+C:\Users\kubra\Desktop\Task Parallel Library - 2\Task Parallel Library - 2\obj\Debug\Task Parallel Library - 2.csproj.CoreCompileInputs.cache
+C:\Users\kubra\Desktop\Task Parallel Library - 2\Task Parallel Library - 2\obj\Debug\Task Parallel Library - 2.exe
+C:\Users\kubra\Desktop\Task Parallel Library - 2\Task Parallel Library - 2\obj\Debug\Task Parallel Library - 2.pdb
