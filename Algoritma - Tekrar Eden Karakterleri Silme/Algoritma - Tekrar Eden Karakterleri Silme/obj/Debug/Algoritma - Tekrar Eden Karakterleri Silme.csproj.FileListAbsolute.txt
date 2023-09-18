@@ -1,0 +1,7 @@
+C:\Users\kubra\Desktop\Algoritma - Tekrar Eden Karakterleri Silme\Algoritma - Tekrar Eden Karakterleri Silme\bin\Debug\Algoritma - Tekrar Eden Karakterleri Silme.exe.config
+C:\Users\kubra\Desktop\Algoritma - Tekrar Eden Karakterleri Silme\Algoritma - Tekrar Eden Karakterleri Silme\bin\Debug\Algoritma - Tekrar Eden Karakterleri Silme.exe
+C:\Users\kubra\Desktop\Algoritma - Tekrar Eden Karakterleri Silme\Algoritma - Tekrar Eden Karakterleri Silme\bin\Debug\Algoritma - Tekrar Eden Karakterleri Silme.pdb
+C:\Users\kubra\Desktop\Algoritma - Tekrar Eden Karakterleri Silme\Algoritma - Tekrar Eden Karakterleri Silme\obj\Debug\Algoritma - Tekrar Eden Karakterleri Silme.csproj.AssemblyReference.cache
+C:\Users\kubra\Desktop\Algoritma - Tekrar Eden Karakterleri Silme\Algoritma - Tekrar Eden Karakterleri Silme\obj\Debug\Algoritma - Tekrar Eden Karakterleri Silme.csproj.CoreCompileInputs.cache
+C:\Users\kubra\Desktop\Algoritma - Tekrar Eden Karakterleri Silme\Algoritma - Tekrar Eden Karakterleri Silme\obj\Debug\Algoritma - Tekrar Eden Karakterleri Silme.exe
+C:\Users\kubra\Desktop\Algoritma - Tekrar Eden Karakterleri Silme\Algoritma - Tekrar Eden Karakterleri Silme\obj\Debug\Algoritma - Tekrar Eden Karakterleri Silme.pdb
