@@ -1,0 +1,7 @@
+C:\Users\kubra\Desktop\Algoritma - Kelimelerin Anagram Kontrolünü Yapma\Algoritma - Kelimelerin Anagram Kontrolünü Yapma\bin\Debug\Algoritma - Kelimelerin Anagram Kontrolünü Yapma.exe.config
+C:\Users\kubra\Desktop\Algoritma - Kelimelerin Anagram Kontrolünü Yapma\Algoritma - Kelimelerin Anagram Kontrolünü Yapma\bin\Debug\Algoritma - Kelimelerin Anagram Kontrolünü Yapma.exe
+C:\Users\kubra\Desktop\Algoritma - Kelimelerin Anagram Kontrolünü Yapma\Algoritma - Kelimelerin Anagram Kontrolünü Yapma\bin\Debug\Algoritma - Kelimelerin Anagram Kontrolünü Yapma.pdb
+C:\Users\kubra\Desktop\Algoritma - Kelimelerin Anagram Kontrolünü Yapma\Algoritma - Kelimelerin Anagram Kontrolünü Yapma\obj\Debug\Algoritma - Kelimelerin Anagram Kontrolünü Yapma.csproj.AssemblyReference.cache
+C:\Users\kubra\Desktop\Algoritma - Kelimelerin Anagram Kontrolünü Yapma\Algoritma - Kelimelerin Anagram Kontrolünü Yapma\obj\Debug\Algoritma - Kelimelerin Anagram Kontrolünü Yapma.csproj.CoreCompileInputs.cache
+C:\Users\kubra\Desktop\Algoritma - Kelimelerin Anagram Kontrolünü Yapma\Algoritma - Kelimelerin Anagram Kontrolünü Yapma\obj\Debug\Algoritma - Kelimelerin Anagram Kontrolünü Yapma.exe
+C:\Users\kubra\Desktop\Algoritma - Kelimelerin Anagram Kontrolünü Yapma\Algoritma - Kelimelerin Anagram Kontrolünü Yapma\obj\Debug\Algoritma - Kelimelerin Anagram Kontrolünü Yapma.pdb
