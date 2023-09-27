@@ -1,0 +1,7 @@
+C:\Users\kubra\Desktop\Generic List\Generic List\bin\Debug\Generic List.exe.config
+C:\Users\kubra\Desktop\Generic List\Generic List\bin\Debug\Generic List.exe
+C:\Users\kubra\Desktop\Generic List\Generic List\bin\Debug\Generic List.pdb
+C:\Users\kubra\Desktop\Generic List\Generic List\obj\Debug\Generic List.csproj.AssemblyReference.cache
+C:\Users\kubra\Desktop\Generic List\Generic List\obj\Debug\Generic List.csproj.CoreCompileInputs.cache
+C:\Users\kubra\Desktop\Generic List\Generic List\obj\Debug\Generic List.exe
+C:\Users\kubra\Desktop\Generic List\Generic List\obj\Debug\Generic List.pdb
