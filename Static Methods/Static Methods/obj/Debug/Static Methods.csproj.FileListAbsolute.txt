@@ -1,0 +1,7 @@
+C:\Users\kubra\Desktop\Static Methods\Static Methods\bin\Debug\Static Methods.exe.config
+C:\Users\kubra\Desktop\Static Methods\Static Methods\bin\Debug\Static Methods.exe
+C:\Users\kubra\Desktop\Static Methods\Static Methods\bin\Debug\Static Methods.pdb
+C:\Users\kubra\Desktop\Static Methods\Static Methods\obj\Debug\Static Methods.csproj.AssemblyReference.cache
+C:\Users\kubra\Desktop\Static Methods\Static Methods\obj\Debug\Static Methods.csproj.CoreCompileInputs.cache
+C:\Users\kubra\Desktop\Static Methods\Static Methods\obj\Debug\Static Methods.exe
+C:\Users\kubra\Desktop\Static Methods\Static Methods\obj\Debug\Static Methods.pdb
