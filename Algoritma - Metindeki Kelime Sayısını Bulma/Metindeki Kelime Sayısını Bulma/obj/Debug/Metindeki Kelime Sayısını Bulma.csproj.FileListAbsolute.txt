@@ -1,0 +1,7 @@
+C:\Users\kubra\Desktop\Metindeki Kelime Sayısını Bulma\Metindeki Kelime Sayısını Bulma\bin\Debug\Metindeki Kelime Sayısını Bulma.exe.config
+C:\Users\kubra\Desktop\Metindeki Kelime Sayısını Bulma\Metindeki Kelime Sayısını Bulma\bin\Debug\Metindeki Kelime Sayısını Bulma.exe
+C:\Users\kubra\Desktop\Metindeki Kelime Sayısını Bulma\Metindeki Kelime Sayısını Bulma\bin\Debug\Metindeki Kelime Sayısını Bulma.pdb
+C:\Users\kubra\Desktop\Metindeki Kelime Sayısını Bulma\Metindeki Kelime Sayısını Bulma\obj\Debug\Metindeki Kelime Sayısını Bulma.csproj.AssemblyReference.cache
+C:\Users\kubra\Desktop\Metindeki Kelime Sayısını Bulma\Metindeki Kelime Sayısını Bulma\obj\Debug\Metindeki Kelime Sayısını Bulma.csproj.CoreCompileInputs.cache
+C:\Users\kubra\Desktop\Metindeki Kelime Sayısını Bulma\Metindeki Kelime Sayısını Bulma\obj\Debug\Metindeki Kelime Sayısını Bulma.exe
+C:\Users\kubra\Desktop\Metindeki Kelime Sayısını Bulma\Metindeki Kelime Sayısını Bulma\obj\Debug\Metindeki Kelime Sayısını Bulma.pdb
